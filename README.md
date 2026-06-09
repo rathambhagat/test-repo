@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/cyber-banner.svg" width="100%" alt="Cyberpunk banner with Parth Wankhede"/>
+<img src="assets/bg-cyber-grid.gif" width="100%" alt="Cyberpunk Grid Banner"/>
 
-<img src="assets/hacker-terminal.gif" width="560" alt="Hacker Terminal"/>
+# ⚡ Parth Wankhede ⚡
+
+### `System Programmer // DSA Engineer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=bc13fe&center=true&vCenter=true&width=600&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" alt="neon divider"/>
 
@@ -20,6 +22,14 @@
 [![Discord](https://img.shields.io/badge/Discord-%23bc13fe.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Parth-Wankhade)
 
 </div>
+
+<div align="center">
+
+<img src="assets/hacker-terminal.gif" width="560" alt="Hacker Terminal"/>
+
+</div>
+
+---
 
 ## `> whoami`
 
@@ -124,7 +134,7 @@ tertiary    = World domination via C pointers
 
 > `// pulsing neon waveform – your commit heartbeat`
 
-<img src="assets/neon-pulse.gif" width="180" alt="Neon Pulse"/>
+<img src="assets/neon-pulse.gif" width="320" alt="Neon Pulse"/>
 
 </div>
 
