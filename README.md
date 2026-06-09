@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="assets/bg-cyber-grid.gif" width="100%" alt="Cyberpunk Grid Banner"/>
-
-# ⚡ Parth Wankhede ⚡
-
-### `System Programmer // DSA Engineer`
+<img src="assets/cyber-banner.svg" width="100%" alt="Cyberpunk banner with Parth Wankhede"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=bc13fe&center=true&vCenter=true&width=600&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90" alt="neon divider"/>
 
@@ -134,7 +130,7 @@ tertiary    = World domination via C pointers
 
 > `// pulsing neon waveform – your commit heartbeat`
 
-<img src="assets/neon-pulse.gif" width="320" alt="Neon Pulse"/>
+<img src="assets/neon-pulse.gif" width="420" alt="Neon Pulse"/>
 
 </div>
 

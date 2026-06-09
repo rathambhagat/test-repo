@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Parth Wankhede</title>
+  <desc id="desc">Cyberpunk banner for the GitHub profile.</desc>
+  <defs>
+    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.18"/>
+      <stop offset="58%" stop-color="#000000" stop-opacity="0.52"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.82"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#bc13fe"/>
+      <stop offset="0.5" stop-color="#00f3ff"/>
+      <stop offset="1" stop-color="#bc13fe"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 H 0 V 60" fill="none" stroke="#00f3ff" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <image href="bg-cyber-grid.gif" xlink:href="bg-cyber-grid.gif" x="0" y="0" width="1600" height="420" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+  <rect width="1600" height="420" fill="url(#overlay)"/>
+  <ellipse cx="800" cy="120" rx="460" ry="90" fill="#bc13fe" fill-opacity="0.16"/>
+  <ellipse cx="800" cy="320" rx="560" ry="100" fill="#00f3ff" fill-opacity="0.08"/>
+  <path d="M120 320H1480" stroke="url(#glow)" stroke-opacity="0.55" stroke-width="2"/>
+
+  <text x="800" y="184" text-anchor="middle" fill="#ffffff" font-size="90" font-family="Share Tech Mono, Consolas, monospace" font-weight="700" letter-spacing="2">
+    Parth Wankhede
+  </text>
+  <text x="800" y="244" text-anchor="middle" fill="#00f3ff" font-size="28" font-family="Share Tech Mono, Consolas, monospace" letter-spacing="4">
+    SYSTEM PROGRAMMER // DSA ENGINEER
+  </text>
+  <text x="800" y="352" text-anchor="middle" fill="#bc13fe" font-size="18" font-family="Share Tech Mono, Consolas, monospace" letter-spacing="3">
+    CYBER PROFILE INTERFACE
+  </text>
+</svg>
