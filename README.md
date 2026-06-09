@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300f3ff.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/parth-wankhede)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300f3ff.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/parth-wankhade-316926328/)
 [![Gmail](https://img.shields.io/badge/Email-%23bc13fe.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.wankhade@gmail.com)
 
 </div>
