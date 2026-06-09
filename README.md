@@ -14,14 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300f3ff.svg?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/parth-wankhede)
 [![Gmail](https://img.shields.io/badge/Email-%23bc13fe.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.wankhade@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300f3ff.svg?style=for-the-badge&logo=twitter&logoColor=0d0d0d)](https://twitter.com/Parth-Wankhade)
-[![Discord](https://img.shields.io/badge/Discord-%23bc13fe.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Parth-Wankhade)
-
-</div>
-
-<div align="center">
-
-<img src="assets/hacker-terminal.gif" width="560" alt="Hacker Terminal"/>
 
 </div>
 
