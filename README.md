@@ -1,6 +1,6 @@
-<img src="assets/bg-cyber-grid.gif" width="100%" alt="Cyberpunk Grid Banner"/>
-
 <div align="center">
+
+<img src="assets/bg-cyber-grid.gif" width="100%" alt="Cyberpunk Grid Banner"/>
 
 # ⚡ Parth Wankhede ⚡
 
@@ -20,6 +20,14 @@
 [![Gmail](https://img.shields.io/badge/Email-%23bc13fe.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.wankhade@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300f3ff.svg?style=for-the-badge&logo=twitter&logoColor=0d0d0d)](https://twitter.com/Parth-Wankhade)
 [![Discord](https://img.shields.io/badge/Discord-%23bc13fe.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Parth-Wankhade)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/hacker-terminal.gif" width="420" alt="Hacker Terminal"/>
 
 </div>
 
@@ -57,11 +65,7 @@ tertiary    = World domination via C pointers
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
 
-<img src="assets/hacker-terminal.gif" width="280" alt="Hacker Terminal"/>
-
-</td>
 </tr>
 </table>
 
@@ -131,6 +135,8 @@ tertiary    = World domination via C pointers
 [![Parth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Wankhade&bg_color=0d0d0d&color=00f3ff&line=bc13fe&point=00f3ff&area=true&area_color=bc13fe&hide_border=true&title_color=bc13fe)](https://github.com/Parth-Wankhade)
 
 > `// pulsing neon waveform – your commit heartbeat`
+
+<img src="assets/neon-pulse.gif" width="180" alt="Neon Pulse"/>
 
 </div>
 
@@ -248,8 +254,6 @@ Segmentation fault (core dumped)
 ---
 
 <div align="center">
-
-<img src="assets/neon-pulse.gif" width="40" alt="Neon Pulse"/>
 
 **Made with ☕, ⚡, and too many late nights**
 
